@@ -8,4 +8,5 @@ How to run:
 3. model.py contains the architecture CNN-RNN model which you can modify if you want to experiment.
 4. Dataloader loads the data.
 
+run  'python -m streamlit run app.py' this in terminal to open the project
 
